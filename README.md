@@ -13,11 +13,12 @@ This project aims to analyze crime data in New York City to gain insights into c
 
 * The dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of 2019. 
 * Dataset: [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
-* The dataset contains 7.82 million recorded crimes, with 35 columns each containing details of the crime. 
 
 ## Files Executed
 
-* NYC_Complaint_Data_Historic.csv-
+* NYC_Complaint_Data_Historic.csv: The dataset contains 7.82 million recorded crimes, with 35 columns each containing details of the crime. 
+* NY Crime_xyn.ipynb: Jupyter Notebook consisting of EDA and analysis performed on crime rates in NYC.
+* NYC Crime Analysis.twbx: Tableau Dashboards and stories identifying crime patterns and hotspots in NYC.
 
 
 
