@@ -18,7 +18,7 @@ This project aims to analyze crime data in New York City to gain insights into c
 
 * NYC_Complaint_Data_Historic.csv: The dataset contains 7.82 million recorded crimes, with 35 columns each containing details of the crime. 
 * NY Crime_xyn.ipynb: Jupyter Notebook consisting of EDA and analysis performed on crime rates in NYC.
-* NYC Crime Analysis.twbx: Tableau Dashboards and stories identifying crime patterns and hotspots in NYC.
+* NYC Crime Analysis.twbx: Tableau Dashboards and stories identifying crime patterns and hotspots in NYC. [The Tableau dashboards can be found here:](https://public.tableau.com/app/profile/vidhi.ambwani/viz/NYPDCrimeAnalysis_17044994469650/UnravelingtheCrimeLandscape)
 
 
 
