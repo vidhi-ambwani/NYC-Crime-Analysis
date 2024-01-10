@@ -1,5 +1,5 @@
 ## Overview
-This project aims to analyze crime data in New York City to gain insights into crime patterns, trends, and factors influencing criminal activities. The analysis is performed using Python and various data analysis libraries.
+This project aims to analyze crime data in New York City from 2006-2019 to gain insights into crime patterns, trends, and factors influencing criminal activities. The analysis is performed using Python's various data analysis libraries and Tableau.
 
 ## Features
 
@@ -18,7 +18,13 @@ This project aims to analyze crime data in New York City to gain insights into c
 
 * NYC_Complaint_Data_Historic.csv: The dataset contains 7.82 million recorded crimes, with 35 columns each containing details of the crime. 
 * NY Crime_xyn.ipynb: Jupyter Notebook consisting of EDA and analysis performed on crime rates in NYC.
-* [NYC Crime Analysis.twbx](https://public.tableau.com/app/profile/vidhi.ambwani/viz/NYPDCrimeAnalysis_17044994469650/UnravelingtheCrimeLandscape): Tableau Dashboards and stories identifying crime patterns and hotspots in NYC. 
+* NYC Crime Analysis.twbx: Tableau Dashboards and stories identifying crime patterns and hotspots in NYC. 
+
+## Deliverables
+
+* The full interactive dashboard can be seen [here](https://public.tableau.com/app/profile/vidhi.ambwani/viz/NYPDCrimeAnalysis_17044994469650/UnravelingtheCrimeLandscape)
+
+![image](https://github.com/vidhi-ambwani/NYC-Crime-Analysis/assets/116972853/892401d2-9aa0-4ee6-a933-f66cdd95d744)
 
 
 
